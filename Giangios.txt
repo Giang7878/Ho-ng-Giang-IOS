@@ -32,7 +32,6 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
 ------ Tab
      local Tab1o = MakeTab({Name = "Chức Năng"})
     
-    AddButton(Tab1o, {
      Name = "Min Gaming",
     Callback = function()
 
