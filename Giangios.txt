@@ -28,14 +28,9 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
        Stroke = false,
        StrokeColor = Color3.fromRGB(255, 0, 0)
       })
-      
+      l
 ------ Tab
      local Tab1o = MakeTab({Name = "Chức Năng"})
-    
-     Name = "Min Gaming",
-    Callback = function()
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinAE"))()
 
   end
   })
